@@ -240,4 +240,4 @@ This repository serves as the official landing page for The Warchiefs. The softw
 **Get the most recent version of The Warchiefs today!**
 
 ---
-**Last updated:** 2026-09-07 05:34:34 UTC
+**Last updated:** 2026-09-07 11:18:50 UTC

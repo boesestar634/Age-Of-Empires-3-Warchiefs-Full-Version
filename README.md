@@ -238,3 +238,6 @@ This repository serves as the official landing page for The Warchiefs. The softw
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of The Warchiefs today!**
+
+---
+**Last updated:** 2026-09-07 00:36:38 UTC
